@@ -124,4 +124,4 @@ Project Link: [https://github.com/jsoto78/galeria-react](https://github.com/jsot
 [linkedin-url]: https://www.linkedin.com/in/jose-soto-939b2ba/
 [product-screenshot]: ./src/assets/screenshot.png
 
-{width="200px"}
+{:max-width="200px"}
