@@ -123,5 +123,3 @@ Project Link: [https://github.com/jsoto78/galeria-react](https://github.com/jsot
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jose-soto-939b2ba/
 [product-screenshot]: ./src/assets/screenshot.png
-
-{:max-width="200px"}
