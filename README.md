@@ -33,7 +33,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot =250x]](https://stupefied-einstein-e5c706.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://stupefied-einstein-e5c706.netlify.app/)
 Es una galeria de imagenes usando la API unsplush.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -122,4 +122,5 @@ Project Link: [https://github.com/jsoto78/galeria-react](https://github.com/jsot
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jose-soto-939b2ba/
-[product-screenshot]: ./src/assets/screenshot.png
+
+[product-screenshot]: ./src/assets/screenshot.png =250x
