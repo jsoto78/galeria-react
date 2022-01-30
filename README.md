@@ -36,7 +36,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://stupefied-einstein-e5c706.netlify.app/) <br/>
 Es una galeria de imagenes usando la API unsplush.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 ### Built With
 
@@ -45,7 +45,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -78,7 +78,7 @@ _Below is an example of how you can instruct your audience on installing and set
    const auth = "&client_id=ENTER YOUR API";
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -90,7 +90,7 @@ para iniciar el proyecto solamente es necesario realizar
   yarn start
 ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- LICENSE -->
 
@@ -98,7 +98,7 @@ para iniciar el proyecto solamente es necesario realizar
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- CONTACT -->
 
@@ -108,7 +108,7 @@ Jose Soto - [@sotoj78](https://twitter.com/sotoj78) - email@example.com
 
 Project Link: [https://github.com/jsoto78/galeria-react](https://github.com/jsoto78/galeria-react)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/jsoto78/galeria-react?style=for-the-badge
 [contributors-url]: https://github.com/jsoto78/galeria-react/graphs/contributors
