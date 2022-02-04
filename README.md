@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Jose Soto - [@sotoj78](https://twitter.com/sotoj78) - email@example.com
+Jose Soto - [@sotoj78](https://twitter.com/sotoj78) - jsoto@lossoto.com.ar
 
 Project Link: [https://github.com/jsoto78/galeria-react](https://github.com/jsoto78/galeria-react)
 
